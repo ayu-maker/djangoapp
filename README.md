@@ -26,7 +26,7 @@ The Django FAQ API provides a multilingual FAQ system where users can retrieve f
 1. *Clone the Repository:*
 
    sh
-   git clone https://github.com/ayu-maker/django-faqs.git
+   git clone https://github.com/ayu-maker/djangoapp.git
    cd django-faqs
    
 
