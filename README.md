@@ -102,4 +102,4 @@ This project is open-source and available under the MIT License.
 
 For any queries, feel free to reach out:
 
-- GitHub: [ayu-maker](https://github.com/ayu-maker/django-faqs)
+- GitHub: [ayu-maker](https://github.com/ayu-maker/djangoapp)
